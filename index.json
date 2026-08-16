@@ -451,15 +451,51 @@
         "health"
       ],
       "title": {
-        "en": "The Science of Deep Sleep"
+        "en": "The Science of Deep Sleep",
+        "zh": "深度睡眠的科学",
+        "ja": "深い睡眠の科学",
+        "es": "La Ciencia del Sueño Profundo",
+        "fr": "La Science du Sommeil Profond",
+        "ar": "علم النوم العميق",
+        "pt": "A Ciência do Sono Profundo",
+        "ru": "Наука о глубоком сне",
+        "ms": "Sains Tidur Lena",
+        "id": "Ilmu Tidur Nyenyak",
+        "de": "Die Wissenschaft des Tiefschlafs",
+        "it": "La Scienza del Sonno Profondo",
+        "ko": "깊은 수면의 과학"
       },
       "subtitle": {
-        "en": "Discover how slow-wave sleep restores your body, strengthens immunity, and clears brain waste."
+        "en": "Discover how slow-wave sleep restores your body, strengthens immunity, and clears brain waste.",
+        "zh": "了解慢波睡眠如何修复身体、增强免疫力并帮助清除大脑代谢废物。",
+        "ja": "徐波睡眠がどのように身体を回復させ、免疫力を高め、脳内の代謝老廃物の排出を助けるのかを解説します。",
+        "es": "Descubre cómo el sueño de ondas lentas restaura tu cuerpo, fortalece la inmunidad y ayuda a eliminar los desechos del cerebro.",
+        "fr": "Découvrez comment le sommeil à ondes lentes restaure votre corps, renforce l'immunité et aide à éliminer les déchets du cerveau.",
+        "ar": "اكتشف كيف يساعد نوم الموجات البطيئة على استعادة الجسم وتقوية المناعة والتخلص من الفضلات الأيضية في الدماغ.",
+        "pt": "Descubra como o sono de ondas lentas restaura o corpo, fortalece a imunidade e ajuda a eliminar resíduos do cérebro.",
+        "ru": "Узнайте, как медленноволновой сон восстанавливает организм, укрепляет иммунитет и помогает выводить продукты обмена из мозга.",
+        "ms": "Ketahui bagaimana tidur gelombang perlahan memulihkan tubuh, menguatkan imuniti dan membantu membersihkan sisa metabolik otak.",
+        "id": "Ketahui bagaimana tidur gelombang lambat memulihkan tubuh, memperkuat kekebalan, dan membantu membersihkan limbah dari otak.",
+        "de": "Erfahren Sie, wie der Tiefschlaf den Körper regeneriert, das Immunsystem stärkt und dabei hilft, Abfallstoffe aus dem Gehirn zu entfernen.",
+        "it": "Scopri come il sonno a onde lente rigenera il corpo, rafforza il sistema immunitario e aiuta a eliminare le scorie dal cervello.",
+        "ko": "서파 수면이 신체를 회복하고 면역력을 강화하며 뇌의 대사 노폐물 제거를 돕는 방법을 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/stages-of-sleep/deep-sleep",
       "date": "2026-05-10",
       "paths": {
-        "en": "en/5.md"
+        "en": "en/5.md",
+        "zh": "zh/5.md",
+        "ja": "ja/5.md",
+        "es": "es/5.md",
+        "fr": "fr/5.md",
+        "ar": "ar/5.md",
+        "pt": "pt/5.md",
+        "ru": "ru/5.md",
+        "ms": "ms/5.md",
+        "id": "id/5.md",
+        "de": "de/5.md",
+        "it": "it/5.md",
+        "ko": "ko/5.md"
       }
     },
     {
@@ -470,15 +506,51 @@
         "efficiency"
       ],
       "title": {
-        "en": "Why Sleep Consistency Matters"
+        "en": "Why Sleep Consistency Matters",
+        "zh": "为什么规律睡眠很重要",
+        "ja": "睡眠リズムを整えることが大切な理由",
+        "es": "Por Qué Es Importante Mantener un Horario de Sueño Regular",
+        "fr": "Pourquoi la Régularité du Sommeil Est Importante",
+        "ar": "لماذا انتظام النوم مهم",
+        "pt": "Por Que a Regularidade do Sono é Importante",
+        "ru": "Почему важен регулярный режим сна",
+        "ms": "Mengapa Konsistensi Tidur Penting",
+        "id": "Mengapa Konsistensi Tidur Penting",
+        "de": "Warum ein regelmäßiger Schlafrhythmus wichtig ist",
+        "it": "Perché la Regolarità del Sonno è Importante",
+        "ko": "규칙적인 수면이 중요한 이유"
       },
       "subtitle": {
-        "en": "Learn how waking and sleeping at the same time anchors your circadian clock and boosts daily energy."
+        "en": "Learn how waking and sleeping at the same time anchors your circadian clock and boosts daily energy.",
+        "zh": "了解每天在相同时间入睡和醒来如何稳定昼夜节律，并提升日常精力。",
+        "ja": "毎日同じ時間に眠り、同じ時間に起きることで体内時計が整い、日中の活力が高まる仕組みを解説します。",
+        "es": "Descubre cómo acostarte y levantarte a la misma hora regula tu reloj circadiano y mejora tu energía diaria.",
+        "fr": "Découvrez comment vous coucher et vous lever à la même heure stabilise votre horloge circadienne et augmente votre énergie quotidienne.",
+        "ar": "تعرّف على كيفية تثبيت وقت النوم والاستيقاظ لساعة جسمك البيولوجية وتعزيز طاقتك اليومية.",
+        "pt": "Saiba como dormir e acordar nos mesmos horários ajuda a regular o relógio circadiano e aumenta a energia diária.",
+        "ru": "Узнайте, как одинаковое время отхода ко сну и пробуждения помогает настроить циркадные ритмы и повысить дневную энергию.",
+        "ms": "Ketahui bagaimana tidur dan bangun pada waktu yang sama membantu menstabilkan jam sirkadian dan meningkatkan tenaga harian.",
+        "id": "Pelajari bagaimana tidur dan bangun pada waktu yang sama membantu menstabilkan jam sirkadian dan meningkatkan energi harian.",
+        "de": "Erfahren Sie, wie regelmäßige Schlaf- und Aufstehzeiten Ihre innere Uhr stabilisieren und die Energie im Alltag steigern.",
+        "it": "Scopri come andare a dormire e svegliarsi alla stessa ora aiuta a regolare il ritmo circadiano e aumenta l'energia quotidiana.",
+        "ko": "매일 같은 시간에 자고 일어나는 습관이 생체 시계를 안정시키고 하루의 활력을 높이는 방법을 알아보세요."
       },
       "originalLink": "https://www.health.harvard.edu/staying-healthy/why-a-consistent-sleep-schedule-matters",
       "date": "2026-05-11",
       "paths": {
-        "en": "en/6.md"
+        "en": "en/6.md",
+        "zh": "zh/6.md",
+        "ja": "ja/6.md",
+        "es": "es/6.md",
+        "fr": "fr/6.md",
+        "ar": "ar/6.md",
+        "pt": "pt/6.md",
+        "ru": "ru/6.md",
+        "ms": "ms/6.md",
+        "id": "id/6.md",
+        "de": "de/6.md",
+        "it": "it/6.md",
+        "ko": "ko/6.md"
       }
     },
     {
@@ -489,15 +561,51 @@
         "solution"
       ],
       "title": {
-        "en": "How to Fall Asleep Faster"
+        "en": "How to Fall Asleep Faster",
+        "zh": "如何更快入睡",
+        "ja": "早く眠りにつく方法",
+        "es": "Cómo Dormirse Más Rápido",
+        "fr": "Comment S'endormir Plus Rapidement",
+        "ar": "كيف تنام بشكل أسرع",
+        "pt": "Como Adormecer Mais Rápido",
+        "ru": "Как быстрее заснуть",
+        "ms": "Cara untuk Tidur Lebih Cepat",
+        "id": "Cara Tidur Lebih Cepat",
+        "de": "Wie man schneller einschläft",
+        "it": "Come Addormentarsi Più Velocemente",
+        "ko": "더 빨리 잠드는 방법"
       },
       "subtitle": {
-        "en": "Evidence-based wind-down strategies, the 20-minute rule, and nighttime cognitive decatastrophizing."
+        "en": "Evidence-based wind-down strategies, the 20-minute rule, and nighttime cognitive decatastrophizing.",
+        "zh": "了解有科学依据的睡前放松方法、20分钟规则，以及夜间减少灾难化思维的技巧。",
+        "ja": "科学的根拠に基づく就寝前のリラックス法、20分ルール、夜間の破局的思考を和らげる方法を紹介します。",
+        "es": "Estrategias de relajación basadas en evidencia, la regla de los 20 minutos y técnicas para reducir los pensamientos catastróficos nocturnos.",
+        "fr": "Découvrez des stratégies de détente fondées sur des données probantes, la règle des 20 minutes et des techniques pour réduire les pensées catastrophiques la nuit.",
+        "ar": "استراتيجيات مثبتة للاسترخاء قبل النوم، وقاعدة 20 دقيقة، وطرق للحد من التفكير الكارثي ليلًا.",
+        "pt": "Estratégias de relaxamento baseadas em evidências, a regra dos 20 minutos e técnicas para reduzir pensamentos catastróficos à noite.",
+        "ru": "Научно обоснованные способы расслабиться перед сном, правило 20 минут и методы снижения катастрофизации мыслей ночью.",
+        "ms": "Strategi bertenang sebelum tidur berasaskan bukti, peraturan 20 minit dan cara mengurangkan pemikiran bencana pada waktu malam.",
+        "id": "Strategi menenangkan diri sebelum tidur berbasis bukti, aturan 20 menit, dan cara mengurangi pikiran katastrofik di malam hari.",
+        "de": "Evidenzbasierte Entspannungsstrategien, die 20-Minuten-Regel und Methoden gegen katastrophisierende Gedanken in der Nacht.",
+        "it": "Strategie di rilassamento basate su prove, la regola dei 20 minuti e tecniche per ridurre i pensieri catastrofici durante la notte.",
+        "ko": "근거에 기반한 취침 전 이완법, 20분 규칙, 그리고 밤에 파국적 사고를 줄이는 방법을 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/how-to-fall-asleep",
       "date": "2026-05-12",
       "paths": {
-        "en": "en/7.md"
+        "en": "en/7.md",
+        "zh": "zh/7.md",
+        "ja": "ja/7.md",
+        "es": "es/7.md",
+        "fr": "fr/7.md",
+        "ar": "ar/7.md",
+        "pt": "pt/7.md",
+        "ru": "ru/7.md",
+        "ms": "ms/7.md",
+        "id": "id/7.md",
+        "de": "de/7.md",
+        "it": "it/7.md",
+        "ko": "ko/7.md"
       }
     },
     {
@@ -508,15 +616,51 @@
         "health"
       ],
       "title": {
-        "en": "Caffeine, Alcohol, and Sleep"
+        "en": "Caffeine, Alcohol, and Sleep",
+        "zh": "咖啡因、酒精与睡眠",
+        "ja": "カフェイン、アルコールと睡眠",
+        "es": "Cafeína, Alcohol y Sueño",
+        "fr": "Caféine, Alcool et Sommeil",
+        "ar": "الكافيين والكحول والنوم",
+        "pt": "Cafeína, Álcool e Sono",
+        "ru": "Кофеин, алкоголь и сон",
+        "ms": "Kafein, Alkohol dan Tidur",
+        "id": "Kafein, Alkohol, dan Tidur",
+        "de": "Koffein, Alkohol und Schlaf",
+        "it": "Caffeina, Alcol e Sonno",
+        "ko": "카페인, 알코올과 수면"
       },
       "subtitle": {
-        "en": "Understand the biological mechanisms of adenosine blockade and nighttime sleep fragmentation."
+        "en": "Understand the biological mechanisms of adenosine blockade and nighttime sleep fragmentation.",
+        "zh": "了解腺苷阻断的生物学机制，以及咖啡因和酒精如何影响夜间睡眠的连续性。",
+        "ja": "アデノシンの働きが阻害される生物学的仕組みと、カフェインやアルコールが夜間の睡眠を分断する理由を解説します。",
+        "es": "Comprende los mecanismos biológicos del bloqueo de la adenosina y la fragmentación del sueño durante la noche.",
+        "fr": "Comprenez les mécanismes biologiques du blocage de l'adénosine et de la fragmentation du sommeil pendant la nuit.",
+        "ar": "افهم الآليات البيولوجية لحجب الأدينوزين وكيف يمكن أن يؤدي ذلك إلى تجزئة النوم ليلًا.",
+        "pt": "Entenda os mecanismos biológicos do bloqueio da adenosina e da fragmentação do sono durante a noite.",
+        "ru": "Узнайте о биологических механизмах блокировки аденозина и о том, как кофеин и алкоголь могут нарушать непрерывность ночного сна.",
+        "ms": "Fahami mekanisme biologi sekatan adenosina dan bagaimana kafein serta alkohol boleh memecah-belahkan tidur pada waktu malam.",
+        "id": "Pahami mekanisme biologis penghambatan adenosin dan bagaimana kafein serta alkohol dapat membuat tidur malam terfragmentasi.",
+        "de": "Verstehen Sie die biologischen Mechanismen der Adenosinblockade und wie Koffein und Alkohol den nächtlichen Schlaf unterbrechen können.",
+        "it": "Comprendi i meccanismi biologici del blocco dell'adenosina e della frammentazione del sonno durante la notte.",
+        "ko": "아데노신 차단의 생물학적 작용과 카페인 및 알코올이 밤의 수면을 단절시키는 이유를 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/nutrition/caffeine-and-sleep",
       "date": "2026-05-13",
       "paths": {
-        "en": "en/8.md"
+        "en": "en/8.md",
+        "zh": "zh/8.md",
+        "ja": "ja/8.md",
+        "es": "es/8.md",
+        "fr": "fr/8.md",
+        "ar": "ar/8.md",
+        "pt": "pt/8.md",
+        "ru": "ru/8.md",
+        "ms": "ms/8.md",
+        "id": "id/8.md",
+        "de": "de/8.md",
+        "it": "it/8.md",
+        "ko": "ko/8.md"
       }
     },
     {
@@ -527,15 +671,51 @@
         "solution"
       ],
       "title": {
-        "en": "Frequent Night Awakenings"
+        "en": "Frequent Night Awakenings",
+        "zh": "频繁夜间醒来",
+        "ja": "夜中に何度も目が覚める理由",
+        "es": "Despertares Frecuentes Durante la Noche",
+        "fr": "Réveils Fréquents Pendant la Nuit",
+        "ar": "الاستيقاظ المتكرر أثناء الليل",
+        "pt": "Despertares Frequentes Durante a Noite",
+        "ru": "Частые пробуждения ночью",
+        "ms": "Kerap Terjaga pada Waktu Malam",
+        "id": "Sering Terbangun di Malam Hari",
+        "de": "Häufiges Aufwachen in der Nacht",
+        "it": "Frequenti Risvegli Notturni",
+        "ko": "밤에 자주 깨는 이유"
       },
       "subtitle": {
-        "en": "Why you wake up in the middle of the night, how to avoid clock anxiety, and how to settle back."
+        "en": "Why you wake up in the middle of the night, how to avoid clock anxiety, and how to settle back.",
+        "zh": "了解为什么会在半夜醒来，如何避免因看时间而产生焦虑，以及怎样重新平静入睡。",
+        "ja": "夜中に目が覚める理由、時計を気にする不安を避ける方法、そして再び落ち着いて眠るためのヒントを紹介します。",
+        "es": "Por qué te despiertas en mitad de la noche, cómo evitar la ansiedad por mirar el reloj y cómo volver a dormirte.",
+        "fr": "Pourquoi vous vous réveillez au milieu de la nuit, comment éviter l'anxiété liée à l'heure et comment vous rendormir.",
+        "ar": "لماذا تستيقظ في منتصف الليل، وكيف تتجنب القلق بسبب مراقبة الساعة، وكيف تعود إلى النوم بهدوء.",
+        "pt": "Por que você acorda no meio da noite, como evitar a ansiedade de olhar o relógio e como voltar a dormir.",
+        "ru": "Почему вы просыпаетесь посреди ночи, как избежать тревоги из-за взгляда на часы и как снова спокойно уснуть.",
+        "ms": "Mengapa anda terjaga pada tengah malam, cara mengelakkan kebimbangan melihat jam dan cara kembali tidur dengan tenang.",
+        "id": "Mengapa Anda terbangun di tengah malam, cara menghindari kecemasan karena melihat jam, dan cara kembali tidur dengan tenang.",
+        "de": "Warum Sie mitten in der Nacht aufwachen, wie Sie die Sorge um die Uhrzeit vermeiden und wieder zur Ruhe finden.",
+        "it": "Perché ti svegli nel cuore della notte, come evitare l'ansia di guardare l'orologio e come riaddormentarti serenamente.",
+        "ko": "한밤중에 잠에서 깨는 이유와 시계를 확인하며 생기는 불안을 피하고 다시 편안하게 잠드는 방법을 알아보세요."
       },
       "originalLink": "https://health.clevelandclinic.org/how-to-fall-back-asleep",
       "date": "2026-05-14",
       "paths": {
-        "en": "en/9.md"
+        "en": "en/9.md",
+        "zh": "zh/9.md",
+        "ja": "ja/9.md",
+        "es": "es/9.md",
+        "fr": "fr/9.md",
+        "ar": "ar/9.md",
+        "pt": "pt/9.md",
+        "ru": "ru/9.md",
+        "ms": "ms/9.md",
+        "id": "id/9.md",
+        "de": "de/9.md",
+        "it": "it/9.md",
+        "ko": "ko/9.md"
       }
     },
     {
@@ -546,15 +726,51 @@
         "solution"
       ],
       "title": {
-        "en": "Improving Sleep Efficiency"
+        "en": "Improving Sleep Efficiency",
+        "zh": "提高睡眠效率",
+        "ja": "睡眠効率を高める方法",
+        "es": "Cómo Mejorar la Eficiencia del Sueño",
+        "fr": "Améliorer l'Efficacité du Sommeil",
+        "ar": "تحسين كفاءة النوم",
+        "pt": "Como Melhorar a Eficiência do Sono",
+        "ru": "Как повысить эффективность сна",
+        "ms": "Meningkatkan Kecekapan Tidur",
+        "id": "Meningkatkan Efisiensi Tidur",
+        "de": "Schlafeffizienz verbessern",
+        "it": "Migliorare l'Efficienza del Sonno",
+        "ko": "수면 효율을 높이는 방법"
       },
       "subtitle": {
-        "en": "Spending quality time in bed: how consolidating sleep windows reduces restless tossing and turning."
+        "en": "Spending quality time in bed: how consolidating sleep windows reduces restless tossing and turning.",
+        "zh": "让卧床时间更有质量：了解如何集中睡眠时间，减少夜间辗转反侧。",
+        "ja": "ベッドで過ごす時間の質を高める方法と、睡眠時間を適切にまとめることで寝返りや落ち着かない睡眠を減らす仕組みを解説します。",
+        "es": "Cómo aprovechar mejor el tiempo en la cama y cómo consolidar las horas de sueño puede reducir las vueltas y el sueño inquieto.",
+        "fr": "Comment mieux utiliser le temps passé au lit et comment consolider les périodes de sommeil peut réduire l'agitation et les retournements nocturnes.",
+        "ar": "تعرف على كيفية تحسين وقتك في السرير وكيف يساعد تنظيم فترات النوم على تقليل التقلب والاضطراب أثناء الليل.",
+        "pt": "Como aproveitar melhor o tempo na cama e como consolidar os períodos de sono pode reduzir a inquietação e as mudanças constantes de posição.",
+        "ru": "Узнайте, как проводить время в постели эффективнее и как объединение периодов сна помогает уменьшить беспокойные движения ночью.",
+        "ms": "Ketahui cara menggunakan masa di katil dengan lebih berkualiti dan bagaimana mengukuhkan tempoh tidur dapat mengurangkan gelisah serta kerap berpusing.",
+        "id": "Pelajari cara menggunakan waktu di tempat tidur dengan lebih berkualitas dan bagaimana mengonsolidasikan waktu tidur dapat mengurangi gelisah dan bolak-balik.",
+        "de": "Erfahren Sie, wie Sie die Zeit im Bett besser nutzen und wie ein gebündeltes Schlafzeitfenster unruhiges Wälzen reduzieren kann.",
+        "it": "Scopri come rendere più efficace il tempo a letto e come consolidare le ore di sonno può ridurre i continui movimenti e l'irrequietezza notturna.",
+        "ko": "침대에서 보내는 시간을 더 효율적으로 활용하고 수면 시간을 통합해 밤중의 뒤척임과 불안정한 수면을 줄이는 방법을 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/sleep-hygiene/sleep-efficiency",
       "date": "2026-05-15",
       "paths": {
-        "en": "en/10.md"
+        "en": "en/10.md",
+        "zh": "zh/10.md",
+        "ja": "ja/10.md",
+        "es": "es/10.md",
+        "fr": "fr/10.md",
+        "ar": "ar/10.md",
+        "pt": "pt/10.md",
+        "ru": "ru/10.md",
+        "ms": "ms/10.md",
+        "id": "id/10.md",
+        "de": "de/10.md",
+        "it": "it/10.md",
+        "ko": "ko/10.md"
       }
     },
     {
@@ -565,15 +781,51 @@
         "solution"
       ],
       "title": {
-        "en": "Optimizing Bedroom Environment"
+        "en": "Optimizing Bedroom Environment",
+        "zh": "优化卧室睡眠环境",
+        "ja": "寝室の睡眠環境を整える",
+        "es": "Optimizar el Entorno del Dormitorio",
+        "fr": "Optimiser l'Environnement de la Chambre",
+        "ar": "تحسين بيئة غرفة النوم",
+        "pt": "Otimizando o Ambiente do Quarto",
+        "ru": "Как оптимизировать обстановку в спальне",
+        "ms": "Mengoptimumkan Persekitaran Bilik Tidur",
+        "id": "Mengoptimalkan Lingkungan Kamar Tidur",
+        "de": "Die Schlafumgebung optimieren",
+        "it": "Ottimizzare l'Ambiente della Camera da Letto",
+        "ko": "침실 환경 최적화"
       },
       "subtitle": {
-        "en": "How fine-tuning noise decibels, room temperature (18-20°C), and darkness prevents micro-arousals."
+        "en": "How fine-tuning noise decibels, room temperature (18-20°C), and darkness prevents micro-arousals.",
+        "zh": "了解如何调节噪音分贝、室温（18–20°C）和黑暗程度，减少微觉醒。",
+        "ja": "騒音レベル、室温（18～20°C）、暗さを適切に整えることで、微小覚醒を防ぐ方法を解説します。",
+        "es": "Cómo ajustar el nivel de ruido, la temperatura de la habitación (18-20 °C) y la oscuridad para prevenir microdespertares.",
+        "fr": "Comment ajuster le niveau sonore, la température de la chambre (18-20 °C) et l'obscurité pour prévenir les micro-éveils.",
+        "ar": "تعرف على كيفية ضبط مستوى الضوضاء ودرجة حرارة الغرفة (18-20°م) والظلام للحد من الاستيقاظات الدقيقة.",
+        "pt": "Como ajustar o nível de ruído, a temperatura do quarto (18-20 °C) e a escuridão para evitar microdespertares.",
+        "ru": "Узнайте, как регулировать уровень шума, температуру в комнате (18–20 °C) и освещение, чтобы предотвращать микро пробуждения.",
+        "ms": "Ketahui cara melaraskan tahap bunyi, suhu bilik (18-20°C) dan kegelapan untuk mengurangkan terjaga mikro.",
+        "id": "Pelajari cara mengatur tingkat kebisingan, suhu kamar (18-20°C), dan kegelapan untuk mencegah terbangun singkat.",
+        "de": "Erfahren Sie, wie die Anpassung von Geräuschpegel, Raumtemperatur (18–20 °C) und Dunkelheit Mikroerwachungen verhindern kann.",
+        "it": "Scopri come regolare il livello di rumore, la temperatura della stanza (18-20 °C) e l'oscurità per prevenire i micro-risvegli.",
+        "ko": "소음 수준, 실내 온도(18~20°C), 어두운 환경을 적절히 조절해 미세 각성을 줄이는 방법을 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/bedroom-environment",
       "date": "2026-05-16",
       "paths": {
-        "en": "en/11.md"
+        "en": "en/11.md",
+        "zh": "zh/11.md",
+        "ja": "ja/11.md",
+        "es": "es/11.md",
+        "fr": "fr/11.md",
+        "ar": "ar/11.md",
+        "pt": "pt/11.md",
+        "ru": "ru/11.md",
+        "ms": "ms/11.md",
+        "id": "id/11.md",
+        "de": "de/11.md",
+        "it": "it/11.md",
+        "ko": "ko/11.md"
       }
     },
     {
@@ -584,15 +836,51 @@
         "solution"
       ],
       "title": {
-        "en": "Sound Therapy for Sleep"
+        "en": "Sound Therapy for Sleep",
+        "zh": "声音疗法助眠",
+        "ja": "睡眠のためのサウンドセラピー",
+        "es": "Terapia de Sonido para Dormir",
+        "fr": "Thérapie Sonore pour le Sommeil",
+        "ar": "العلاج الصوتي لتحسين النوم",
+        "pt": "Terapia Sonora para o Sono",
+        "ru": "Звуковая терапия для сна",
+        "ms": "Terapi Bunyi untuk Tidur",
+        "id": "Terapi Suara untuk Tidur",
+        "de": "Klangtherapie für besseren Schlaf",
+        "it": "Terapia del Suono per il Sonno",
+        "ko": "수면을 위한 사운드 테라피"
       },
       "subtitle": {
-        "en": "White noise vs. Pink noise vs. Brown noise: using auditory masking to protect deep sleep stages."
+        "en": "White noise vs. Pink noise vs. Brown noise: using auditory masking to protect deep sleep stages.",
+        "zh": "白噪音、粉红噪音与棕噪音的区别：利用听觉掩蔽帮助保护深度睡眠阶段。",
+        "ja": "ホワイトノイズ、ピンクノイズ、ブラウンノイズの違いと、聴覚マスキングを活用して深い睡眠を守る方法を紹介します。",
+        "es": "Ruido blanco vs. ruido rosa vs. ruido marrón: cómo usar el enmascaramiento auditivo para proteger las fases de sueño profundo.",
+        "fr": "Bruit blanc, bruit rose ou bruit brun : comment utiliser le masquage auditif pour préserver les phases de sommeil profond.",
+        "ar": "الضوضاء البيضاء مقابل الوردية والبنية: كيفية استخدام الإخفاء السمعي للمساعدة في حماية مراحل النوم العميق.",
+        "pt": "Ruído branco vs. ruído rosa vs. ruído marrom: como usar o mascaramento auditivo para proteger as fases do sono profundo.",
+        "ru": "Белый, розовый или коричневый шум: как использовать слуховое маскирование для поддержки глубоких стадий сна.",
+        "ms": "Bunyi putih vs. bunyi merah jambu vs. bunyi perang: menggunakan penyarikan auditori untuk membantu melindungi fasa tidur lena.",
+        "id": "White noise vs. pink noise vs. brown noise: menggunakan masking auditori untuk membantu melindungi tahap tidur nyenyak.",
+        "de": "Weißes, rosa oder braunes Rauschen: Wie akustische Maskierung dazu beitragen kann, tiefe Schlafphasen zu schützen.",
+        "it": "Rumore bianco, rosa o marrone: come usare il mascheramento acustico per proteggere le fasi di sonno profondo.",
+        "ko": "화이트 노이즈, 핑크 노이즈, 브라운 노이즈의 차이와 청각적 마스킹으로 깊은 수면 단계를 보호하는 방법을 알아보세요."
       },
       "originalLink": "https://www.sleepfoundation.org/noise-and-sleep",
       "date": "2026-05-17",
       "paths": {
-        "en": "en/12.md"
+        "en": "en/12.md",
+        "zh": "zh/12.md",
+        "ja": "ja/12.md",
+        "es": "es/12.md",
+        "fr": "fr/12.md",
+        "ar": "ar/12.md",
+        "pt": "pt/12.md",
+        "ru": "ru/12.md",
+        "ms": "ms/12.md",
+        "id": "id/12.md",
+        "de": "de/12.md",
+        "it": "it/12.md",
+        "ko": "ko/12.md"
       }
     },
     {
@@ -603,15 +891,51 @@
         "health"
       ],
       "title": {
-        "en": "Nighttime Coughing Explained"
+        "en": "Nighttime Coughing Explained",
+        "zh": "夜间咳嗽原因解析",
+        "ja": "夜間の咳を理解する",
+        "es": "Explicación de la Tos Nocturna",
+        "fr": "Comprendre la Toux Nocturne",
+        "ar": "تفسير السعال الليلي",
+        "pt": "Entendendo a Tos Noturna",
+        "ru": "Почему возникает ночной кашель",
+        "ms": "Memahami Batuk pada Waktu Malam",
+        "id": "Memahami Batuk di Malam Hari",
+        "de": "Nächtlichen Husten verstehen",
+        "it": "Capire la Tosse Notturna",
+        "ko": "야간 기침의 원인 이해하기"
       },
       "subtitle": {
-        "en": "Why coughing intensifies when lying down, acid reflux, postnasal drip, and when to seek care."
+        "en": "Why coughing intensifies when lying down, acid reflux, postnasal drip, and when to seek care.",
+        "zh": "了解为什么躺下后咳嗽会加重、胃酸反流和鼻后滴流的影响，以及何时应该寻求医疗帮助。",
+        "ja": "横になると咳が強くなる理由、胃酸逆流や後鼻漏との関係、そして受診すべきタイミングを解説します。",
+        "es": "Por qué la tos empeora al acostarse, el papel del reflujo ácido y el goteo posnasal, y cuándo buscar atención médica.",
+        "fr": "Pourquoi la toux s'intensifie en position allongée, le rôle du reflux acide et de l'écoulement postnasal, et quand consulter.",
+        "ar": "لماذا يزداد السعال عند الاستلقاء، ودور ارتجاع الحمض والتنقيط الأنفي الخلفي، ومتى ينبغي طلب الرعاية الطبية.",
+        "pt": "Por que a tosse piora ao deitar, o papel do refluxo ácido e do gotejamento pós-nasal e quando procurar atendimento médico.",
+        "ru": "Почему кашель усиливается в положении лёжа, какую роль играют кислотный рефлюкс и постназальный затёк и когда следует обратиться к врачу.",
+        "ms": "Mengapa batuk menjadi lebih teruk ketika berbaring, peranan refluks asid dan lelehan postnasal, serta bila perlu mendapatkan rawatan.",
+        "id": "Mengapa batuk memburuk saat berbaring, peran refluks asam dan postnasal drip, serta kapan perlu mencari pertolongan medis.",
+        "de": "Warum Husten im Liegen stärker wird, welche Rolle Sodbrennen und postnasaler Schleim spielen und wann ärztliche Hilfe sinnvoll ist.",
+        "it": "Perché la tosse peggiora quando ci si sdraia, il ruolo del reflusso acido e del gocciolamento retronasale e quando rivolgersi a un medico.",
+        "ko": "누우면 기침이 심해지는 이유와 위산 역류 및 후비루의 영향, 그리고 언제 진료를 받아야 하는지 알아보세요."
       },
       "originalLink": "https://www.mayoclinic.org/symptoms/cough/basics/causes/sym-20050846",
       "date": "2026-05-18",
       "paths": {
-        "en": "en/13.md"
+        "en": "en/13.md",
+        "zh": "zh/13.md",
+        "ja": "ja/13.md",
+        "es": "es/13.md",
+        "fr": "fr/13.md",
+        "ar": "ar/13.md",
+        "pt": "pt/13.md",
+        "ru": "ru/13.md",
+        "ms": "ms/13.md",
+        "id": "id/13.md",
+        "de": "de/13.md",
+        "it": "it/13.md",
+        "ko": "ko/13.md"
       }
     },
     {
@@ -622,15 +946,51 @@
         "solution"
       ],
       "title": {
-        "en": "4-7-8 Breath & Muscle Relaxation"
+        "en": "4-7-8 Breath & Muscle Relaxation",
+        "zh": "4-7-8 呼吸与肌肉放松",
+        "ja": "4-7-8呼吸法と筋肉リラクゼーション",
+        "es": "Respiración 4-7-8 y Relajación Muscular",
+        "fr": "Respiration 4-7-8 et Relaxation Musculaire",
+        "ar": "تنفس 4-7-8 واسترخاء العضلات",
+        "pt": "Respiração 4-7-8 e Relaxamento Muscular",
+        "ru": "Дыхание 4-7-8 и мышечная релаксация",
+        "ms": "Pernafasan 4-7-8 & Relaksasi Otot",
+        "id": "Pernapasan 4-7-8 & Relaksasi Otot",
+        "de": "4-7-8-Atmung & Muskelentspannung",
+        "it": "Respirazione 4-7-8 e Rilassamento Muscolare",
+        "ko": "4-7-8 호흡과 근육 이완"
       },
       "subtitle": {
-        "en": "Step-by-step somatosensory exercises to downregulate your nervous system and ease into rest."
+        "en": "Step-by-step somatosensory exercises to downregulate your nervous system and ease into rest.",
+        "zh": "通过循序渐进的身体感觉练习，帮助降低神经系统的唤醒水平，逐步进入放松与休息状态。",
+        "ja": "段階的な身体感覚エクササイズで神経系の興奮を落ち着かせ、自然にリラックスして休息へ導きます。",
+        "es": "Ejercicios somatosensoriales paso a paso para calmar el sistema nervioso y entrar gradualmente en un estado de descanso.",
+        "fr": "Des exercices somatosensoriels étape par étape pour apaiser le système nerveux et vous aider à entrer progressivement dans un état de repos.",
+        "ar": "تمارين جسدية حسية خطوة بخطوة لتهدئة الجهاز العصبي والانتقال تدريجيًا إلى حالة من الاسترخاء والراحة.",
+        "pt": "Exercícios somatossensoriais passo a passo para acalmar o sistema nervoso e entrar gradualmente em um estado de repouso.",
+        "ru": "Пошаговые соматосенсорные упражнения, которые помогают успокоить нервную систему и постепенно перейти к отдыху.",
+        "ms": "Latihan somatosensori langkah demi langkah untuk menenangkan sistem saraf dan membantu anda beralih secara beransur-ansur kepada keadaan rehat.",
+        "id": "Latihan somatosensorik langkah demi langkah untuk menenangkan sistem saraf dan membantu tubuh memasuki kondisi istirahat.",
+        "de": "Schrittweise somatosensorische Übungen, um das Nervensystem zu beruhigen und sanft in einen Zustand der Ruhe zu gelangen.",
+        "it": "Esercizi somatosensoriali passo dopo passo per calmare il sistema nervoso e accompagnarti gradualmente verso il riposo.",
+        "ko": "단계별 신체 감각 운동으로 신경계의 각성 수준을 낮추고 편안한 휴식 상태로 자연스럽게 들어가는 방법을 알아보세요."
       },
       "originalLink": "https://www.medicalnewstoday.com/articles/324417",
       "date": "2026-05-19",
       "paths": {
-        "en": "en/14.md"
+        "en": "en/14.md",
+        "zh": "zh/14.md",
+        "ja": "ja/14.md",
+        "es": "es/14.md",
+        "fr": "fr/14.md",
+        "ar": "ar/14.md",
+        "pt": "pt/14.md",
+        "ru": "ru/14.md",
+        "ms": "ms/14.md",
+        "id": "id/14.md",
+        "de": "de/14.md",
+        "it": "it/14.md",
+        "ko": "ko/14.md"
       }
     }
   ]
