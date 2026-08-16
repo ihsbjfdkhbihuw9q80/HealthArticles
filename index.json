@@ -13,7 +13,9 @@
       "id": "Semua",
       "de": "Alle",
       "it": "Tutti",
-      "ko": "전체"
+      "ko": "전체",
+      "zh-Hans": "全部",
+      "zh-Hant": "全部"
     },
     "stages": {
       "en": "Deep Sleep",
@@ -28,7 +30,9 @@
       "id": "Tidur Nyenyak",
       "de": "Tiefschlaf",
       "it": "Sonno Profondo",
-      "ko": "깊은 수면"
+      "ko": "깊은 수면",
+      "zh-Hans": "深睡与周期",
+      "zh-Hant": "深睡與週期"
     },
     "latency": {
       "en": "Falling Asleep",
@@ -43,7 +47,9 @@
       "id": "Jatuh Tertidur",
       "de": "Einschlafen",
       "it": "Addormentamento",
-      "ko": "수면 유도"
+      "ko": "수면 유도",
+      "zh-Hans": "快速入睡",
+      "zh-Hant": "快速入睡"
     },
     "efficiency": {
       "en": "Efficiency",
@@ -58,7 +64,9 @@
       "id": "Efisiensi Tidur",
       "de": "Schlafeffizienz",
       "it": "Efficienza",
-      "ko": "수면 효율"
+      "ko": "수면 효율",
+      "zh-Hans": "睡眠效率",
+      "zh-Hant": "睡眠效率"
     },
     "environment": {
       "en": "Environment",
@@ -73,7 +81,9 @@
       "id": "Lingkungan Tidur",
       "de": "Schlafumgebung",
       "it": "Ambiente del Sonno",
-      "ko": "수면 환경"
+      "ko": "수면 환경",
+      "zh-Hans": "睡眠环境",
+      "zh-Hant": "睡眠環境"
     },
     "respiratory": {
       "en": "Breathing & Cough",
@@ -88,7 +98,9 @@
       "id": "Pernapasan & Batuk",
       "de": "Atmung & Husten",
       "it": "Respirazione e Tosse",
-      "ko": "호흡 및 기침"
+      "ko": "호흡 및 기침",
+      "zh-Hans": "呼吸与咳嗽",
+      "zh-Hant": "呼吸與咳嗽"
     },
     "snoring": {
       "en": "Snoring",
@@ -103,7 +115,9 @@
       "id": "Mendengkur",
       "de": "Schnarchen",
       "it": "Russamento",
-      "ko": "코골이"
+      "ko": "코골이",
+      "zh-Hans": "打鼾",
+      "zh-Hant": "打鼾"
     },
     "osa": {
       "en": "Sleep Apnea",
@@ -118,7 +132,9 @@
       "id": "Apnea Tidur",
       "de": "Schlafapnoe",
       "it": "Apnea del Sonno",
-      "ko": "수면 무호흡증"
+      "ko": "수면 무호흡증",
+      "zh-Hans": "呼吸暂停",
+      "zh-Hant": "睡眠呼吸中止"
     },
     "exercise": {
       "en": "Exercises",
@@ -133,7 +149,9 @@
       "id": "Latihan",
       "de": "Übungen",
       "it": "Esercizi",
-      "ko": "운동 요법"
+      "ko": "운동 요법",
+      "zh-Hans": "训练放松",
+      "zh-Hant": "訓練放鬆"
     },
     "solution": {
       "en": "Solutions",
@@ -148,7 +166,9 @@
       "id": "Solusi",
       "de": "Lösungen",
       "it": "Soluzioni",
-      "ko": "해결책"
+      "ko": "해결책",
+      "zh-Hans": "解决方案",
+      "zh-Hant": "解決方案"
     },
     "health": {
       "en": "Health & Risks",
@@ -163,7 +183,9 @@
       "id": "Kesehatan & Risiko",
       "de": "Gesundheit & Risiken",
       "it": "Salute e Rischi",
-      "ko": "건강 및 위험"
+      "ko": "건강 및 위험",
+      "zh-Hans": "健康与风险",
+      "zh-Hant": "健康與風險"
     }
   },
   "articles": [
@@ -188,7 +210,9 @@
         "id": "Latihan Mulut untuk Mendengkur",
         "de": "Mundübungen gegen Schnarchen",
         "it": "Esercizi Orali contro il Russare",
-        "ko": "코골이 방지 구강 운동"
+        "ko": "코골이 방지 구강 운동",
+        "zh-Hans": "打鼾口腔练习",
+        "zh-Hant": "打鼾口腔練習"
       },
       "subtitle": {
         "en": "Myofunctional Therapy: Simple Exercises for Snoring and Sleep Apnea",
@@ -203,7 +227,9 @@
         "id": "Terapi Miofungsional: Latihan sederhana untuk mendengkur dan apnea tidur",
         "de": "Myofunktionelle Therapie: Einfache Übungen gegen Schnarchen und Schlafapnoe",
         "it": "Terapia Miofunzionale: Semplici esercizi per russamento e apnea notturna",
-        "ko": "구강 근기능 치료: 코골이 및 수면 무호흡증을 위한 간단한 운동"
+        "ko": "구강 근기능 치료: 코골이 및 수면 무호흡증을 위한 간단한 운동",
+        "zh-Hans": "口肌功能治疗：针对打鼾与睡眠呼吸暂停的简单练习",
+        "zh-Hant": "口肌功能治療：針對打鼾與睡眠呼吸中止的簡單練習"
       },
       "originalLink": "https://snore.dcocb.com/blog/train-mouth-stop-snoring",
       "date": "2025-10-26",
@@ -220,7 +246,9 @@
         "id": "id/0.md",
         "de": "de/0.md",
         "it": "it/0.md",
-        "ko": "ko/0.md"
+        "ko": "ko/0.md",
+        "zh-Hans": "zh-Hans/0.md",
+        "zh-Hant": "zh-Hant/0.md"
       }
     },
     {
@@ -243,7 +271,9 @@
         "id": "Solusi Mendengkur",
         "de": "Lösungen gegen Schnarchen",
         "it": "Soluzioni per il Russamento",
-        "ko": "코골이 해결책"
+        "ko": "코골이 해결책",
+        "zh-Hans": "打鼾解决方案",
+        "zh-Hant": "打鼾解決方案"
       },
       "subtitle": {
         "en": "Simple changes can quiet snoring. Try side-sleeping, avoid alcohol, and clear your nose.",
@@ -258,7 +288,9 @@
         "id": "Perubahan sederhana dapat meredakan dengkuran: tidur miring, hindari alkohol.",
         "de": "Einfache Änderungen können das Schnarchen lindern: Seitenschlaf, Alkoholverzicht.",
         "it": "Semplici cambiamenti possono calmare il russamento: dormire sul fianco ed evitare l'alcol.",
-        "ko": "간단한 습관 변화로 코골이 완화: 옆으로 누워 자고, 금주하며, 코를 깨끗이 유지하세요."
+        "ko": "간단한 습관 변화로 코골이 완화: 옆으로 누워 자고, 금주하며, 코를 깨끗이 유지하세요.",
+        "zh-Hans": "简单的改变可以减少打鼾：尝试侧卧睡眠、睡前避免饮酒并保持鼻腔通畅。",
+        "zh-Hant": "簡單的改變可以減少打鼾：嘗試側臥睡眠、睡前避免飲酒並保持鼻腔通暢。"
       },
       "originalLink": "https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions",
       "date": "2025-10-24",
@@ -275,7 +307,9 @@
         "id": "id/1.md",
         "de": "de/1.md",
         "it": "it/1.md",
-        "ko": "ko/1.md"
+        "ko": "ko/1.md",
+        "zh-Hans": "zh-Hans/1.md",
+        "zh-Hant": "zh-Hant/1.md"
       }
     },
     {
@@ -298,7 +332,9 @@
         "id": "Solusi Apnea Tidur",
         "de": "Lösungen gegen Schlafapnoe",
         "it": "Soluzioni per l'Apnea del Sonno",
-        "ko": "수면 무호흡증 해결책"
+        "ko": "수면 무호흡증 해결책",
+        "zh-Hans": "睡眠呼吸暂停（OSA）解决方案",
+        "zh-Hant": "睡眠呼吸中止（OSA）解決方案"
       },
       "subtitle": {
         "en": "Weight loss and breathing-assist therapy are the keys to overcoming this common male ailment.",
@@ -313,7 +349,9 @@
         "id": "Penurunan berat badan dan terapi bantuan pernapasan adalah kunci untuk mengatasinya.",
         "de": "Gewichtsverlust und Atemtherapie sind der Schlüssel zur Überwindung dieses Leidens.",
         "it": "Perdita di peso e terapia respiratoria sono le chiavi per superare questo disturbo.",
-        "ko": "체중 감량과 호흡 보조 치료(CPAP)가 이 흔한 수면 질환을 극복하는 열쇠입니다."
+        "ko": "체중 감량과 호흡 보조 치료(CPAP)가 이 흔한 수면 질환을 극복하는 열쇠입니다.",
+        "zh-Hans": "减重与呼吸辅助治疗（CPAP）是改善这一常见睡眠呼吸问题的关键。",
+        "zh-Hant": "減重與呼吸輔助治療（CPAP）是改善這一常見睡眠呼吸問題的關鍵。"
       },
       "originalLink": "https://www.health.harvard.edu/staying-healthy/sleep-apnea-solutions",
       "date": "2025-10-25",
@@ -330,7 +368,9 @@
         "id": "id/2.md",
         "de": "de/2.md",
         "it": "it/2.md",
-        "ko": "ko/2.md"
+        "ko": "ko/2.md",
+        "zh-Hans": "zh-Hans/2.md",
+        "zh-Hant": "zh-Hant/2.md"
       }
     },
     {
@@ -353,7 +393,9 @@
         "id": "Memahami Apnea Tidur",
         "de": "Schlafapnoe verstehen",
         "it": "Capire l'Apnea del Sonno",
-        "ko": "수면 무호흡증 이해하기"
+        "ko": "수면 무호흡증 이해하기",
+        "zh-Hans": "了解睡眠呼吸暂停",
+        "zh-Hant": "了解睡眠呼吸中止"
       },
       "subtitle": {
         "en": "Sleep apnea is a serious disorder that can be life-threatening if left untreated.",
@@ -368,7 +410,9 @@
         "id": "Apnea tidur adalah gangguan serius yang dapat berbahaya jika tidak diobati.",
         "de": "Schlafapnoe ist eine ernsthafte Störung, die unbehandelt Risiken birgt.",
         "it": "L'apnea notturna è un disturbo serio che può essere rischioso se non trattato.",
-        "ko": "수면 무호흡증은 방치할 경우 건강에 심각한 위험을 초래할 수 있는 질환입니다."
+        "ko": "수면 무호흡증은 방치할 경우 건강에 심각한 위험을 초래할 수 있는 질환입니다.",
+        "zh-Hans": "睡眠呼吸暂停是一种严重的睡眠障碍，若长期不予治疗可能危害心血管健康。",
+        "zh-Hant": "睡眠呼吸中止是一種嚴重的睡眠障礙，若長期不予治療可能危害心血管健康。"
       },
       "originalLink": "https://my.clevelandclinic.org/health/diseases/8718-sleep-apnea",
       "date": "2025-10-25",
@@ -385,7 +429,9 @@
         "id": "id/3.md",
         "de": "de/3.md",
         "it": "it/3.md",
-        "ko": "ko/3.md"
+        "ko": "ko/3.md",
+        "zh-Hans": "zh-Hans/3.md",
+        "zh-Hant": "zh-Hant/3.md"
       }
     },
     {
@@ -408,7 +454,9 @@
         "id": "Risiko Apnea Tidur",
         "de": "Schlafapnoe-Risiken",
         "it": "Rischi dell'Apnea del Sonno",
-        "ko": "수면 무호흡증 위험"
+        "ko": "수면 무호흡증 위험",
+        "zh-Hans": "睡眠呼吸暂停的风险",
+        "zh-Hant": "睡眠呼吸中止的風險"
       },
       "subtitle": {
         "en": "Ignoring sleep apnea can harm your health, increasing risks of stroke and heart disease.",
@@ -423,7 +471,9 @@
         "id": "Mengabaikan apnea tidur dapat meningkatkan risiko stroke dan penyakit jantung.",
         "de": "Das Ignorieren von Schlafapnoe kann das Risiko für Herzerkrankungen erhöhen.",
         "it": "Ignorare l'apnea notturna può aumentare i rischi di problemi cardiaci e ictus.",
-        "ko": "수면 무호흡증을 방치하면 심혈관 질환 및 뇌졸중의 위험이 증가할 수 있습니다."
+        "ko": "수면 무호흡증을 방치하면 심혈관 질환 및 뇌졸중의 위험이 증가할 수 있습니다.",
+        "zh-Hans": "忽视睡眠呼吸暂停可能损害健康，增加高血压、心脑血管疾病等风险。",
+        "zh-Hant": "忽視睡眠呼吸中止可能損害健康，增加高血壓、心腦血管疾病等風險。"
       },
       "originalLink": "https://www.health.harvard.edu/blog/snored-to-death-the-symptoms-and-dangers-of-untreated-sleep-apnea-2017021311159",
       "date": "2025-10-25",
@@ -440,7 +490,9 @@
         "id": "id/4.md",
         "de": "de/4.md",
         "it": "it/4.md",
-        "ko": "ko/4.md"
+        "ko": "ko/4.md",
+        "zh-Hans": "zh-Hans/4.md",
+        "zh-Hant": "zh-Hant/4.md"
       }
     },
     {
@@ -463,7 +515,9 @@
         "id": "Ilmu Tidur Nyenyak",
         "de": "Die Wissenschaft des Tiefschlafs",
         "it": "La Scienza del Sonno Profondo",
-        "ko": "깊은 수면의 과학"
+        "ko": "깊은 수면의 과학",
+        "zh-Hans": "深度睡眠的科学",
+        "zh-Hant": "深度睡眠的科學"
       },
       "subtitle": {
         "en": "Discover how slow-wave sleep restores your body, strengthens immunity, and clears brain waste.",
@@ -478,7 +532,9 @@
         "id": "Ketahui bagaimana tidur gelombang lambat memulihkan tubuh, memperkuat kekebalan, dan membantu membersihkan limbah dari otak.",
         "de": "Erfahren Sie, wie der Tiefschlaf den Körper regeneriert, das Immunsystem stärkt und dabei hilft, Abfallstoffe aus dem Gehirn zu entfernen.",
         "it": "Scopri come il sonno a onde lente rigenera il corpo, rafforza il sistema immunitario e aiuta a eliminare le scorie dal cervello.",
-        "ko": "서파 수면이 신체를 회복하고 면역력을 강화하며 뇌의 대사 노폐물 제거를 돕는 방법을 알아보세요."
+        "ko": "서파 수면이 신체를 회복하고 면역력을 강화하며 뇌의 대사 노폐물 제거를 돕는 방법을 알아보세요.",
+        "zh-Hans": "了解慢波睡眠如何修复身体、增强免疫力并帮助清除大脑代谢废物。",
+        "zh-Hant": "了解慢波睡眠如何修復身體、增強免疫力並幫助清除大腦代謝廢物。"
       },
       "originalLink": "https://www.sleepfoundation.org/stages-of-sleep/deep-sleep",
       "date": "2026-05-10",
@@ -495,7 +551,9 @@
         "id": "id/5.md",
         "de": "de/5.md",
         "it": "it/5.md",
-        "ko": "ko/5.md"
+        "ko": "ko/5.md",
+        "zh-Hans": "zh-Hans/5.md",
+        "zh-Hant": "zh-Hant/5.md"
       }
     },
     {
@@ -518,7 +576,9 @@
         "id": "Mengapa Konsistensi Tidur Penting",
         "de": "Warum ein regelmäßiger Schlafrhythmus wichtig ist",
         "it": "Perché la Regolarità del Sonno è Importante",
-        "ko": "규칙적인 수면이 중요한 이유"
+        "ko": "규칙적인 수면이 중요한 이유",
+        "zh-Hans": "为什么规律睡眠很重要",
+        "zh-Hant": "為什麼規律睡眠很重要"
       },
       "subtitle": {
         "en": "Learn how waking and sleeping at the same time anchors your circadian clock and boosts daily energy.",
@@ -533,7 +593,9 @@
         "id": "Pelajari bagaimana tidur dan bangun pada waktu yang sama membantu menstabilkan jam sirkadian dan meningkatkan energi harian.",
         "de": "Erfahren Sie, wie regelmäßige Schlaf- und Aufstehzeiten Ihre innere Uhr stabilisieren und die Energie im Alltag steigern.",
         "it": "Scopri come andare a dormire e svegliarsi alla stessa ora aiuta a regolare il ritmo circadiano e aumenta l'energia quotidiana.",
-        "ko": "매일 같은 시간에 자고 일어나는 습관이 생체 시계를 안정시키고 하루의 활력을 높이는 방법을 알아보세요."
+        "ko": "매일 같은 시간에 자고 일어나는 습관이 생체 시계를 안정시키고 하루의 활력을 높이는 방법을 알아보세요.",
+        "zh-Hans": "了解每天在相同时间入睡和醒来如何稳定昼夜节律，并提升日常精力。",
+        "zh-Hant": "了解每天在相同時間入睡和醒來如何穩定晝夜節律，並提升日常精力。"
       },
       "originalLink": "https://www.health.harvard.edu/staying-healthy/why-a-consistent-sleep-schedule-matters",
       "date": "2026-05-11",
@@ -550,7 +612,9 @@
         "id": "id/6.md",
         "de": "de/6.md",
         "it": "it/6.md",
-        "ko": "ko/6.md"
+        "ko": "ko/6.md",
+        "zh-Hans": "zh-Hans/6.md",
+        "zh-Hant": "zh-Hant/6.md"
       }
     },
     {
@@ -573,7 +637,9 @@
         "id": "Cara Tidur Lebih Cepat",
         "de": "Wie man schneller einschläft",
         "it": "Come Addormentarsi Più Velocemente",
-        "ko": "더 빨리 잠드는 방법"
+        "ko": "더 빨리 잠드는 방법",
+        "zh-Hans": "如何更快入睡",
+        "zh-Hant": "如何更快入睡"
       },
       "subtitle": {
         "en": "Evidence-based wind-down strategies, the 20-minute rule, and nighttime cognitive decatastrophizing.",
@@ -588,7 +654,9 @@
         "id": "Strategi menenangkan diri sebelum tidur berbasis bukti, aturan 20 menit, dan cara mengurangi pikiran katastrofik di malam hari.",
         "de": "Evidenzbasierte Entspannungsstrategien, die 20-Minuten-Regel und Methoden gegen katastrophisierende Gedanken in der Nacht.",
         "it": "Strategie di rilassamento basate su prove, la regola dei 20 minuti e tecniche per ridurre i pensieri catastrofici durante la notte.",
-        "ko": "근거에 기반한 취침 전 이완법, 20분 규칙, 그리고 밤에 파국적 사고를 줄이는 방법을 알아보세요."
+        "ko": "근거에 기반한 취침 전 이완법, 20분 규칙, 그리고 밤에 파국적 사고를 줄이는 방법을 알아보세요.",
+        "zh-Hans": "了解有科学依据的睡前放松方法、20分钟规则，以及夜间减少灾难化思维的技巧。",
+        "zh-Hant": "了解有科學依據的睡前放鬆方法、20分鐘規則，以及夜間減少災難化思維的技巧。"
       },
       "originalLink": "https://www.sleepfoundation.org/how-to-fall-asleep",
       "date": "2026-05-12",
@@ -605,7 +673,9 @@
         "id": "id/7.md",
         "de": "de/7.md",
         "it": "it/7.md",
-        "ko": "ko/7.md"
+        "ko": "ko/7.md",
+        "zh-Hans": "zh-Hans/7.md",
+        "zh-Hant": "zh-Hant/7.md"
       }
     },
     {
@@ -628,7 +698,9 @@
         "id": "Kafein, Alkohol, dan Tidur",
         "de": "Koffein, Alkohol und Schlaf",
         "it": "Caffeina, Alcol e Sonno",
-        "ko": "카페인, 알코올과 수면"
+        "ko": "카페인, 알코올과 수면",
+        "zh-Hans": "咖啡因、酒精与睡眠",
+        "zh-Hant": "咖啡因、酒精與睡眠"
       },
       "subtitle": {
         "en": "Understand the biological mechanisms of adenosine blockade and nighttime sleep fragmentation.",
@@ -643,7 +715,9 @@
         "id": "Pahami mekanisme biologis penghambatan adenosin dan bagaimana kafein serta alkohol dapat membuat tidur malam terfragmentasi.",
         "de": "Verstehen Sie die biologischen Mechanismen der Adenosinblockade und wie Koffein und Alkohol den nächtlichen Schlaf unterbrechen können.",
         "it": "Comprendi i meccanismi biologici del blocco dell'adenosina e della frammentazione del sonno durante la notte.",
-        "ko": "아데노신 차단의 생물학적 작용과 카페인 및 알코올이 밤의 수면을 단절시키는 이유를 알아보세요."
+        "ko": "아데노신 차단의 생물학적 작용과 카페인 및 알코올이 밤의 수면을 단절시키는 이유를 알아보세요.",
+        "zh-Hans": "了解腺苷阻断的生物学机制，以及咖啡因和酒精如何影响夜间睡眠的连续性。",
+        "zh-Hant": "了解腺苷阻斷的生物學機制，以及咖啡因和酒精如何影響夜間睡眠的連續性。"
       },
       "originalLink": "https://www.sleepfoundation.org/nutrition/caffeine-and-sleep",
       "date": "2026-05-13",
@@ -660,7 +734,9 @@
         "id": "id/8.md",
         "de": "de/8.md",
         "it": "it/8.md",
-        "ko": "ko/8.md"
+        "ko": "ko/8.md",
+        "zh-Hans": "zh-Hans/8.md",
+        "zh-Hant": "zh-Hant/8.md"
       }
     },
     {
@@ -683,7 +759,9 @@
         "id": "Sering Terbangun di Malam Hari",
         "de": "Häufiges Aufwachen in der Nacht",
         "it": "Frequenti Risvegli Notturni",
-        "ko": "밤에 자주 깨는 이유"
+        "ko": "밤에 자주 깨는 이유",
+        "zh-Hans": "频繁夜间醒来",
+        "zh-Hant": "頻繁夜間醒來"
       },
       "subtitle": {
         "en": "Why you wake up in the middle of the night, how to avoid clock anxiety, and how to settle back.",
@@ -698,7 +776,9 @@
         "id": "Mengapa Anda terbangun di tengah malam, cara menghindari kecemasan karena melihat jam, dan cara kembali tidur dengan tenang.",
         "de": "Warum Sie mitten in der Nacht aufwachen, wie Sie die Sorge um die Uhrzeit vermeiden und wieder zur Ruhe finden.",
         "it": "Perché ti svegli nel cuore della notte, come evitare l'ansia di guardare l'orologio e come riaddormentarti serenamente.",
-        "ko": "한밤중에 잠에서 깨는 이유와 시계를 확인하며 생기는 불안을 피하고 다시 편안하게 잠드는 방법을 알아보세요."
+        "ko": "한밤중에 잠에서 깨는 이유와 시계를 확인하며 생기는 불안을 피하고 다시 편안하게 잠드는 방법을 알아보세요.",
+        "zh-Hans": "了解为什么会在半夜醒来，如何避免因看时间而产生焦虑，以及怎样重新平静入睡。",
+        "zh-Hant": "了解為什麼會在半夜醒來，如何避免因看時間而產生焦慮，以及怎樣重新平靜入睡。"
       },
       "originalLink": "https://health.clevelandclinic.org/how-to-fall-back-asleep",
       "date": "2026-05-14",
@@ -715,7 +795,9 @@
         "id": "id/9.md",
         "de": "de/9.md",
         "it": "it/9.md",
-        "ko": "ko/9.md"
+        "ko": "ko/9.md",
+        "zh-Hans": "zh-Hans/9.md",
+        "zh-Hant": "zh-Hant/9.md"
       }
     },
     {
@@ -738,7 +820,9 @@
         "id": "Meningkatkan Efisiensi Tidur",
         "de": "Schlafeffizienz verbessern",
         "it": "Migliorare l'Efficienza del Sonno",
-        "ko": "수면 효율을 높이는 방법"
+        "ko": "수면 효율을 높이는 방법",
+        "zh-Hans": "提高睡眠效率",
+        "zh-Hant": "提高睡眠效率"
       },
       "subtitle": {
         "en": "Spending quality time in bed: how consolidating sleep windows reduces restless tossing and turning.",
@@ -753,7 +837,9 @@
         "id": "Pelajari cara menggunakan waktu di tempat tidur dengan lebih berkualitas dan bagaimana mengonsolidasikan waktu tidur dapat mengurangi gelisah dan bolak-balik.",
         "de": "Erfahren Sie, wie Sie die Zeit im Bett besser nutzen und wie ein gebündeltes Schlafzeitfenster unruhiges Wälzen reduzieren kann.",
         "it": "Scopri come rendere più efficace il tempo a letto e come consolidare le ore di sonno può ridurre i continui movimenti e l'irrequietezza notturna.",
-        "ko": "침대에서 보내는 시간을 더 효율적으로 활용하고 수면 시간을 통합해 밤중의 뒤척임과 불안정한 수면을 줄이는 방법을 알아보세요."
+        "ko": "침대에서 보내는 시간을 더 효율적으로 활용하고 수면 시간을 통합해 밤중의 뒤척임과 불안정한 수면을 줄이는 방법을 알아보세요.",
+        "zh-Hans": "让卧床时间更有质量：了解如何集中睡眠时间，减少夜间辗转反侧。",
+        "zh-Hant": "讓臥床時間更有質量：了解如何集中睡眠時間，減少夜間輾轉反側。"
       },
       "originalLink": "https://www.sleepfoundation.org/sleep-hygiene/sleep-efficiency",
       "date": "2026-05-15",
@@ -770,7 +856,9 @@
         "id": "id/10.md",
         "de": "de/10.md",
         "it": "it/10.md",
-        "ko": "ko/10.md"
+        "ko": "ko/10.md",
+        "zh-Hans": "zh-Hans/10.md",
+        "zh-Hant": "zh-Hant/10.md"
       }
     },
     {
@@ -793,7 +881,9 @@
         "id": "Mengoptimalkan Lingkungan Kamar Tidur",
         "de": "Die Schlafumgebung optimieren",
         "it": "Ottimizzare l'Ambiente della Camera da Letto",
-        "ko": "침실 환경 최적화"
+        "ko": "침실 환경 최적화",
+        "zh-Hans": "优化卧室睡眠环境",
+        "zh-Hant": "優化臥室睡眠環境"
       },
       "subtitle": {
         "en": "How fine-tuning noise decibels, room temperature (18-20°C), and darkness prevents micro-arousals.",
@@ -808,7 +898,9 @@
         "id": "Pelajari cara mengatur tingkat kebisingan, suhu kamar (18-20°C), dan kegelapan untuk mencegah terbangun singkat.",
         "de": "Erfahren Sie, wie die Anpassung von Geräuschpegel, Raumtemperatur (18–20 °C) und Dunkelheit Mikroerwachungen verhindern kann.",
         "it": "Scopri come regolare il livello di rumore, la temperatura della stanza (18-20 °C) e l'oscurità per prevenire i micro-risvegli.",
-        "ko": "소음 수준, 실내 온도(18~20°C), 어두운 환경을 적절히 조절해 미세 각성을 줄이는 방법을 알아보세요."
+        "ko": "소음 수준, 실내 온도(18~20°C), 어두운 환경을 적절히 조절해 미세 각성을 줄이는 방법을 알아보세요.",
+        "zh-Hans": "了解如何调节噪音分贝、室温（18–20°C）和黑暗程度，减少微觉醒。",
+        "zh-Hant": "了解如何調節噪音分貝、室溫（18–20°C）和黑暗程度，減少微覺醒。"
       },
       "originalLink": "https://www.sleepfoundation.org/bedroom-environment",
       "date": "2026-05-16",
@@ -825,7 +917,9 @@
         "id": "id/11.md",
         "de": "de/11.md",
         "it": "it/11.md",
-        "ko": "ko/11.md"
+        "ko": "ko/11.md",
+        "zh-Hans": "zh-Hans/11.md",
+        "zh-Hant": "zh-Hant/11.md"
       }
     },
     {
@@ -848,7 +942,9 @@
         "id": "Terapi Suara untuk Tidur",
         "de": "Klangtherapie für besseren Schlaf",
         "it": "Terapia del Suono per il Sonno",
-        "ko": "수면을 위한 사운드 테라피"
+        "ko": "수면을 위한 사운드 테라피",
+        "zh-Hans": "声音疗法助眠",
+        "zh-Hant": "聲音療法助眠"
       },
       "subtitle": {
         "en": "White noise vs. Pink noise vs. Brown noise: using auditory masking to protect deep sleep stages.",
@@ -863,7 +959,9 @@
         "id": "White noise vs. pink noise vs. brown noise: menggunakan masking auditori untuk membantu melindungi tahap tidur nyenyak.",
         "de": "Weißes, rosa oder braunes Rauschen: Wie akustische Maskierung dazu beitragen kann, tiefe Schlafphasen zu schützen.",
         "it": "Rumore bianco, rosa o marrone: come usare il mascheramento acustico per proteggere le fasi di sonno profondo.",
-        "ko": "화이트 노이즈, 핑크 노이즈, 브라운 노이즈의 차이와 청각적 마스킹으로 깊은 수면 단계를 보호하는 방법을 알아보세요."
+        "ko": "화이트 노이즈, 핑크 노이즈, 브라운 노이즈의 차이와 청각적 마스킹으로 깊은 수면 단계를 보호하는 방법을 알아보세요.",
+        "zh-Hans": "白噪音、粉红噪音与棕噪音的区别：利用听觉掩蔽帮助保护深度睡眠阶段。",
+        "zh-Hant": "白噪音、粉紅噪音與棕噪音的區別：利用聽覺掩蔽幫助保護深度睡眠階段。"
       },
       "originalLink": "https://www.sleepfoundation.org/noise-and-sleep",
       "date": "2026-05-17",
@@ -880,7 +978,9 @@
         "id": "id/12.md",
         "de": "de/12.md",
         "it": "it/12.md",
-        "ko": "ko/12.md"
+        "ko": "ko/12.md",
+        "zh-Hans": "zh-Hans/12.md",
+        "zh-Hant": "zh-Hant/12.md"
       }
     },
     {
@@ -903,7 +1003,9 @@
         "id": "Memahami Batuk di Malam Hari",
         "de": "Nächtlichen Husten verstehen",
         "it": "Capire la Tosse Notturna",
-        "ko": "야간 기침의 원인 이해하기"
+        "ko": "야간 기침의 원인 이해하기",
+        "zh-Hans": "夜间咳嗽原因解析",
+        "zh-Hant": "夜間咳嗽原因解析"
       },
       "subtitle": {
         "en": "Why coughing intensifies when lying down, acid reflux, postnasal drip, and when to seek care.",
@@ -918,7 +1020,9 @@
         "id": "Mengapa batuk memburuk saat berbaring, peran refluks asam dan postnasal drip, serta kapan perlu mencari pertolongan medis.",
         "de": "Warum Husten im Liegen stärker wird, welche Rolle Sodbrennen und postnasaler Schleim spielen und wann ärztliche Hilfe sinnvoll ist.",
         "it": "Perché la tosse peggiora quando ci si sdraia, il ruolo del reflusso acido e del gocciolamento retronasale e quando rivolgersi a un medico.",
-        "ko": "누우면 기침이 심해지는 이유와 위산 역류 및 후비루의 영향, 그리고 언제 진료를 받아야 하는지 알아보세요."
+        "ko": "누우면 기침이 심해지는 이유와 위산 역류 및 후비루의 영향, 그리고 언제 진료를 받아야 하는지 알아보세요.",
+        "zh-Hans": "了解为什么躺下后咳嗽会加重、胃酸反流和鼻后滴流的影响，以及何时应该寻求医疗帮助。",
+        "zh-Hant": "了解為什麼躺下後咳嗽會加重、胃酸反流和鼻後滴流的影響，以及何時應該尋求醫療幫助。"
       },
       "originalLink": "https://www.mayoclinic.org/symptoms/cough/basics/causes/sym-20050846",
       "date": "2026-05-18",
@@ -935,7 +1039,9 @@
         "id": "id/13.md",
         "de": "de/13.md",
         "it": "it/13.md",
-        "ko": "ko/13.md"
+        "ko": "ko/13.md",
+        "zh-Hans": "zh-Hans/13.md",
+        "zh-Hant": "zh-Hant/13.md"
       }
     },
     {
@@ -958,7 +1064,9 @@
         "id": "Pernapasan 4-7-8 & Relaksasi Otot",
         "de": "4-7-8-Atmung & Muskelentspannung",
         "it": "Respirazione 4-7-8 e Rilassamento Muscolare",
-        "ko": "4-7-8 호흡과 근육 이완"
+        "ko": "4-7-8 호흡과 근육 이완",
+        "zh-Hans": "4-7-8 呼吸与肌肉放松",
+        "zh-Hant": "4-7-8 呼吸與肌肉放鬆"
       },
       "subtitle": {
         "en": "Step-by-step somatosensory exercises to downregulate your nervous system and ease into rest.",
@@ -973,7 +1081,9 @@
         "id": "Latihan somatosensorik langkah demi langkah untuk menenangkan sistem saraf dan membantu tubuh memasuki kondisi istirahat.",
         "de": "Schrittweise somatosensorische Übungen, um das Nervensystem zu beruhigen und sanft in einen Zustand der Ruhe zu gelangen.",
         "it": "Esercizi somatosensoriali passo dopo passo per calmare il sistema nervoso e accompagnarti gradualmente verso il riposo.",
-        "ko": "단계별 신체 감각 운동으로 신경계의 각성 수준을 낮추고 편안한 휴식 상태로 자연스럽게 들어가는 방법을 알아보세요."
+        "ko": "단계별 신체 감각 운동으로 신경계의 각성 수준을 낮추고 편안한 휴식 상태로 자연스럽게 들어가는 방법을 알아보세요.",
+        "zh-Hans": "通过循序渐进的身体感觉练习，帮助降低神经系统的唤醒水平，逐步进入放松与休息状态。",
+        "zh-Hant": "通過循序漸進的身體感覺練習，幫助降低神經系統的喚醒水平，逐步進入放鬆與休息狀態。"
       },
       "originalLink": "https://www.medicalnewstoday.com/articles/324417",
       "date": "2026-05-19",
@@ -990,7 +1100,9 @@
         "id": "id/14.md",
         "de": "de/14.md",
         "it": "it/14.md",
-        "ko": "ko/14.md"
+        "ko": "ko/14.md",
+        "zh-Hans": "zh-Hans/14.md",
+        "zh-Hant": "zh-Hant/14.md"
       }
     }
   ]
